@@ -6,6 +6,7 @@ mkdir projectname
 cd into that folder 
 then install express into that folder using following command
 npm install express
+to run the program just type node app.js
 
 then create 2 files 
 app.js
