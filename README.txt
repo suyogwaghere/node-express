@@ -1,5 +1,5 @@
 # node-express
-Details explanations
+Detail explanations
 
 
 mkdir projectname
